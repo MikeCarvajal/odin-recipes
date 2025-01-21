@@ -1,0 +1,33 @@
+*{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+    text-align: center;
+    font-size: 38px;
+
+}
+.menu{
+    color: brown;
+
+}
+.menu .recipes{
+    text-decoration: none;
+    font-size: large;
+    margin-top: 1%;
+
+}
+.menu img{
+    width: 50%;
+    height: 50%;
+    border: 0cap;
+    border-radius: 23%;
+    
+}
+footer{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color:cadetblue;
+}
